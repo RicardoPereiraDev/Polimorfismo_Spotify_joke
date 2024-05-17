@@ -2,6 +2,9 @@
 
 We're going to implement an application to register our favourite songs and podcasts, modelling the classes using the concepts of object orientation: abstraction, inheritance, encapsulation and polymorphism.
 
+![Captura de ecrã 2024-05-16 003928](https://github.com/RicardoPereiraDev/Polimorfismo_Spotify_joke/assets/155699805/5b532394-7e2f-4249-8a2e-f25452c079fa)
+
+
 ### Notes Important in CODE:
 
 This class "MeusFavoritos" will receive a variable of type "Audio" and will behave differently depending on what is passed in this inclusion, so we work with polymorphism.
